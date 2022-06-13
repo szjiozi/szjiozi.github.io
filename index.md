@@ -24,3 +24,16 @@ function P = softmax(Sn);
 
 The process can be unified into a single function:
 Attention(Q, K, V) = softmax((Q✖️K T)/根号dk)✖️V
+
+The encoder-decoder attention layer in the decoder module is similar to the self-attention layer in the encoder module with the following exceptions: The key matrix K and value matrix V are derived from the encoder module, and the query matrix Q is derived from the previous layer.
+
+Note that the preceding process is invariant to the position of each word, meaning that the self-attention layer lacks the ability to capture the positional information of words in a sentence.
+
+#### positional encoding is needed
+
+Specifically, the position is encoded with the following equations:
+
+$$ PE(pos,2i) = sin(\frac{pos}{10000^{\frac{2i}{d_model}}}) $$
+$$ PE(pos,2i+1) = cos(\frac{pos}{10000^{\frac{2i}{d_model}}}) $$
+
+In which pos denotes the position of the word in a sentence, and i represents the current dimension of the positional encoding. In this way, each element of the positional encoding corresponds to a sinusoid, and it allows the transformer model to learn to attend by relative positions and extrapolate to longer sequence lengths during inference. 
