@@ -23,7 +23,8 @@ function P = softmax(Sn);
 - Step 4: Obtain the weighted value matrix with Z = V · P.
 
 The process can be unified into a single function:
-Attention(Q, K, V) = softmax((Q✖️K T)/根号dk)✖️V
+
+$$ Attention(Q, K, V) = softmax(\frac{Q✖️K^T}{\sqrt{d_k}})*V $$
 
 The encoder-decoder attention layer in the decoder module is similar to the self-attention layer in the encoder module with the following exceptions: The key matrix K and value matrix V are derived from the encoder module, and the query matrix Q is derived from the previous layer.
 
