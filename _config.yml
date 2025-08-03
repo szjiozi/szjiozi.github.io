@@ -23,10 +23,10 @@ repository               : "szjiozi/szjiozi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Junzhi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "New York"
+  bio              : "I am a master student at New York University. My research interest lies in building intelligent and efficient LLM system with powerful reasoning abilities, capable of interacting with human and external environment to complete complex tasks."
+  location         : # "New York"
   employer         : "New York University"
   uri              : # URL
   email            : "jc13140@nyu.edu" 
