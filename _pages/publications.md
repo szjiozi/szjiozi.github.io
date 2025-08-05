@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2025
+2025
+======
 - *Smurfs: Multi-Agent System using Context-Efficient DFSDT for Tool Planning*<br>
   **Junzhi Chen**, Juhao Liang, Benyou Wang<br>
   NAACL 2025<br>
