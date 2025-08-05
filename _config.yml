@@ -22,7 +22,7 @@ repository               : "szjiozi/szjiozi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.HEIC"
+  avatar           : "profile.png"
   name             : "Junzhi Chen"
   pronouns         : # example: "she/her"  
   bio              : "I am a master student at New York University. My research interest lies in building intelligent and efficient LLM system with powerful reasoning abilities, capable of interacting with human and external environment to complete complex tasks."
