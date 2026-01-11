@@ -11,4 +11,4 @@ Hi! I am currently a second-year master’s student at New York University(NYU) 
 
 Currently, my research interest lies in building intelligent and efficient LLM system with powerful reasoning abilities, capable of collaborating with human and interacting with external environment to complete complex tasks. I will graduate in May 2026 and I am looking for Ph.D. opportunity starting from fall 2026.
 
-Outside of research, I loves playing basketball and watching basketball matches (Stephen Curry! What an incredible player!).
+Outside of research, I love playing basketball (Stephen Curry! What an incredible player!).
