@@ -11,4 +11,4 @@ Hi! I am an incoming PhD student adivised by [Prof. Chengwei Qin](https://qcwthu
 
 Currently, my research interest lies in building intelligent and efficient LLM system with powerful reasoning abilities, capable of collaborating with human and interacting with external environment to complete complex tasks.
 
-Outside of research, I loves playing basketball (Stephen Curry! What an incredible player!) and hip-hop music (My favorite rapper is SASIOVERLXRD).
+Outside of research, I love playing basketball (Stephen Curry! What an incredible player!) and hip-hop music (My favorite rapper is SASIOVERLXRD).
