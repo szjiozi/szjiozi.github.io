@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+
+---
+- *AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use*<br>
+  **Junzhi Chen**, Harsh Trivedi, Jane Pan, Michael JQ Zhang, Tejas Srinivasan, Niranjan Balasubramanian, Ashish Sabharwal<br>
+  ICML 2026<br>
+  [[paper](https://openreview.net/pdf?id=cUXV9vtDXd)][[website](https://appworld.dev/)]
+
 ## 2025
 
 ---
